@@ -6,7 +6,7 @@ function App() {
 	return (
 		<div className="h-screen w-screen bg-neutral-50">
 			<div className="absolute mx-2 my-4 flex items-center gap-4">
-				<img src={Otis} className="w-12" alt="Otis Logo" />
+				<img src={Otis} className="w-18" alt="Otis Logo" />
 				<h1 className="hidden text-3xl sm:block font-bold">Otis</h1>
 			</div>
 
